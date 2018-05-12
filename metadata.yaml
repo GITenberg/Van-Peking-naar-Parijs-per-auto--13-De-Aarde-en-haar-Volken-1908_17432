@@ -1,0 +1,37 @@
+_repo: Van-Peking-naar-Parijs-per-auto--13-De-Aarde-en-haar-Volken-1908_17432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Borghese, Scipione
+    aliases:
+    - Sulmona, Scipione Luigi Marcantanio Francesco Rodolfo, prince of
+    - Borghese, Scipione Luigi Marcantanio Francesco Rodolfo, prince
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '7373'
+    url: http://www.gutenberg.org/2009/agents/7373
+    wikipedia: http://en.wikipedia.org/wiki/Scipione_Borghese_(prince)
+  - agent_name: Barzini, Luigi
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '7372'
+    url: http://www.gutenberg.org/2009/agents/7372
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Barzini,_Sr.
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17432'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peking to Paris Motor Challenge (1st : 1907)'
+- !lcc 'DS'
+title: "Van Peking naar Parijs per auto\r\nDe Aarde en haar Volken, 1908"
+url: http://www.gutenberg.org/ebooks/17432
